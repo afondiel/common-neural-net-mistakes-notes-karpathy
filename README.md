@@ -1,0 +1,1 @@
+# common-neural-net-mistakes-notes-karpathy
