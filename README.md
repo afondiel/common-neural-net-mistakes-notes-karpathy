@@ -7,12 +7,12 @@ As I continue my endless journey of deep learning research & exploration, I disc
 > [!IMPORTANT]  
 > These notes may have some variations compared to Karpathy's extended [version](https://karpathy.github.io/2019/04/25/recipe/). So, I recommend you to read it for a comprehensive understanding.
 
-## Usage
+## Motivation
 I curated this guide as both a "personal reminder" and a practical reference to help me approach deep learning problems more efficiently.
 
 ## Table of Contents
 - [Overview](#overview)
-- [Usage](#motivation)
+- [Motivation](#motivation)
 - [1. Overfit Single Batch First](#overfit-single-batch-first)
 - [2. Train/Eval Mode Toggle](#traineval-mode-toggle)
 - [3. Gradient Accumulation Reset](#gradient-accumulation-reset)
